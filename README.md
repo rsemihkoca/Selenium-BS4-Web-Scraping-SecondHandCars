@@ -5,7 +5,7 @@ Data collection script for price estimation model of second-hand vehicles via Se
 <font size="2" face="Courier New" >
 <table style='font-family:"Courier New", Courier, monospace; font-size:20%'>
   <thead>
-    <tr style="text-align: right;font-size:20%">
+    <tr style="text-align: right;font-size:10px">
       <th></th>
       <th>İlan No</th>
       <th>Plaka</th>
