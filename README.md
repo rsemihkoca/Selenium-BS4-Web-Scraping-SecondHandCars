@@ -2,7 +2,7 @@
 
 Data collection script for price estimation model of second-hand vehicles via Selenium
 
-
+<font size="2" face="Courier New" >
 <table style='font-family:"Courier New", Courier, monospace; font-size:20%'>
   <thead>
     <tr style="text-align: right;">
@@ -598,3 +598,4 @@ Data collection script for price estimation model of second-hand vehicles via Se
     </tr>
   </tbody>
 </table>
+</font>
