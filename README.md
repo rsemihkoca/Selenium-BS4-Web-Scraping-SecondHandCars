@@ -3,7 +3,7 @@
 Data collection script for price estimation model of second-hand vehicles via Selenium
 
 
-<table border="1" class="dataframe">
+<table border="1" class="dataframe" style='font-family:"Courier New", Courier, monospace; font-size:80%'>
   <thead>
     <tr style="text-align: right;">
       <th></th>
